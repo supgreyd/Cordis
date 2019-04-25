@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-superscripts_and_subscripts.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-superscripts_and_subscripts.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+2070-209F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-latin_extended_additional.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-latin_extended_additional.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+1E00-1EFF;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-currency_symbols.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-currency_symbols.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+20A0-20CF;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-latin-1_supplement.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-latin-1_supplement.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0080-00FF;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-cyrillic.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-cyrillic.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0400-04FF;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-basic_latin.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-basic_latin.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0020-007F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-latin_extended-b.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-latin_extended-b.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0180-024F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-spacing_modifier_letters.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-spacing_modifier_letters.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+02B0-02FF;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-latin_extended-a.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-latin_extended-a.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0100-017F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-alphabetic_presentation_forms.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-alphabetic_presentation_forms.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+FB00-FB4F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-cyrillic_supplement.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-cyrillic_supplement.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0500-052F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-mathematical_operators.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-mathematical_operators.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+2200-22FF;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-general_punctuation.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-general_punctuation.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+2000-206F;
+}
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: local('Museo Sans Cyrl 500'), local('MuseoSansCyrl-500'), url('https://fontstorage.com/st/museosanscyrl/500-letterlike_symbols.woff2') format('woff2'), url('https://fontstorage.com/st/museosanscyrl/500-letterlike_symbols.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+2100-214F;
+}
